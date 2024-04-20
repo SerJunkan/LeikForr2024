@@ -9,6 +9,6 @@ x
 - lítill leikur þar sem þú reynir að safna peningum og skjóta tunnur.
 - [Myndband](https://www.youtube.com/watch?v=2nZt33E9ywA)
 - [Skriptur notaðar](https://github.com/SerJunkan/LeikForr2024/tree/main/Verk3)
-- ég lenti i sma vesenni að uploada buildið á github
+- Github leyfði mér ekki að uploada buildið utaf það var aðeins of stórt
 ## Verkefni 4
 ## Verkefni 5
