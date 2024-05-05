@@ -11,4 +11,6 @@ x
 - [Skriptur notaðar](https://github.com/SerJunkan/LeikForr2024/tree/main/Verk3)
 - Github leyfði mér ekki að uploada buildið utaf það var aðeins of stórt
 ## Verkefni 4
+- 2D Rubys Adventure Guide
+- [Myndband](https://studio.youtube.com/video/dwTyZBoO6cY)
 ## Verkefni 5
