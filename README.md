@@ -12,5 +12,5 @@ x
 - Github leyfði mér ekki að uploada buildið utaf það var aðeins of stórt
 ## Verkefni 4
 - 2D Rubys Adventure Guide
-- [Myndband](https://studio.youtube.com/video/dwTyZBoO6cY)
+- [Myndband](https://www.youtube.com/watch?v=dwTyZBoO6cY)
 ## Verkefni 5
