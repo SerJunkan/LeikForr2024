@@ -13,4 +13,6 @@ x
 ## Verkefni 4
 - 2D Rubys Adventure Guide
 - [Myndband](https://www.youtube.com/watch?v=dwTyZBoO6cY)
+- [Skriptur notaðar](https://github.com/SerJunkan/LeikForr2024/tree/main/Verk4)
+- Build fylgir með skilum á Innu
 ## Verkefni 5
