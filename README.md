@@ -18,5 +18,5 @@ x
 ## Lokaverkefni
 - ruby + sunny platformer
 - [Myndband](https://www.youtube.com/watch?v=rSBXTouldbg)
-- [Skriptur notaðar]()
+- [Skriptur notaðar](https://github.com/SerJunkan/LeikForr2024/tree/main/Lokaverk)
 - build fylkir með skilum á innu
