@@ -15,4 +15,8 @@ x
 - [Myndband](https://www.youtube.com/watch?v=dwTyZBoO6cY)
 - [Skriptur notaðar](https://github.com/SerJunkan/LeikForr2024/tree/main/Verk4)
 - Build fylgir með skilum á Innu
-## Verkefni 5
+## Lokaverkefni
+- ruby + sunny platformer
+- [Myndband](https://www.youtube.com/watch?v=rSBXTouldbg)
+- [Skriptur notaðar]()
+- build fylkir með skilum á innu
